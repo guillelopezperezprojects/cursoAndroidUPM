@@ -23,6 +23,7 @@ public class MainFiguras {
 		IO.out.println("Figura Mayor: " + manejador.ladosTotal());
 		
 
+		
 	}
 
 }
